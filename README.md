@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayub Shrestha
 
+**Frontend Developer** | Passionate about building sleek, accessible web interfaces.
+
+---
+
+### 🛠 Tech Stack
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: Vue, React
+- **Tools**: Git, Vite, Figma, VS Code
+
+---
+
+### 📌 Projects
+Check out some of my pinned projects below or visit the [Repositories](https://github.com/ayubshrestha?tab=repositories) section to see what I’m working on.
+
+---
+
+### 📫 Reach Me
+- 🌐 [Portfolio]([http://](https://ayub-shrestha.com.np/))
+- 💼 [LinkedIn](https://linkedin.com/in/ayubshrestha)
+- ✉️ shrestha.ayub09@gmail.com
+
+---
+
+<!-- Optional Stats Section -->
 <!--
-**ayubshrestha/ayubshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Ayub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayubshrestha&show_icons=false&hide_title=true&hide=stars,prs,issues&hide_rank=true&theme=default)
 -->
+
