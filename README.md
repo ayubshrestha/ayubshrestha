@@ -17,7 +17,7 @@ Check out some of my pinned projects below or visit the [Repositories](https://g
 ---
 
 ### 📫 Reach Me
-- 🌐 [Portfolio]([http://](https://ayub-shrestha.com.np/))
+- 🌐 [Portfolio](https://ayub-shrestha.com.np/)
 - 💼 [LinkedIn](https://linkedin.com/in/ayubshrestha)
 - ✉️ shrestha.ayub09@gmail.com
 
